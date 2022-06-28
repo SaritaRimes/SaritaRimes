@@ -10,7 +10,7 @@
 
 <hr>
 
-Meu nome é Sarita e eu sou Desenvolvedora Back-end :bricks:
+Meu nome é Sarita e eu sou :sparkles: **Desenvolvedora Back-end** :sparkles:
 
 No momento, desenvolvo principalmente em: 
 :coffee: **Java**
@@ -49,8 +49,8 @@ Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim, sozinha ou
 -->
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=saritarimes&show_icons=true&theme=radical"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritarimes&layout=compact&theme=radical"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=saritarimes&show_icons=true&theme=radical"/>
 </div>
 
 <!--
