@@ -53,8 +53,6 @@ Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim, sozinha ou
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritarimes&layout=compact&theme=radical"/>
 </div>
 
-<hr>
-
 <!--
 ```Java
   public class ByeWorld {
