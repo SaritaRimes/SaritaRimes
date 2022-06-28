@@ -12,7 +12,7 @@
 
 Meu nome é Sarita e eu sou Desenvolvedora Back-end :bricks:
 
-Atualmente, desenvolvo principalmente em: 
+No momento, desenvolvo principalmente em: 
 :coffee: **Java**
 :large_blue_circle: **C#**
 
