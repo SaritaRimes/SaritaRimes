@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Seja bem-vindo(a)!
 
 ![Gato](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
 
@@ -17,8 +17,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Here are some ideas to get you started:
+Meu nome é Sarita e eu sou Desenvolvedora Back-end :bricks: 
 
+Atualmente, desenvolvo principalmente em: 
+:coffee: **Java**
+:large_blue_circle: **C#**
+
+Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim 
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <hr>
 
