@@ -16,7 +16,7 @@ No momento, desenvolvo principalmente em:
 :coffee: **Java**
 :large_blue_circle: **C#**
 
-Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim, sozinha ou em grupo. Se quiser mais informações, não deixe de acessar meu Linkedin pelo link lá em cima :point_up:
+Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim, sozinha ou em grupo. Se quiser mais informações ou desejar entrar em contato, não deixe de acessar meu Linkedin pelo link lá em cima :point_up:
 
 <hr>
 
