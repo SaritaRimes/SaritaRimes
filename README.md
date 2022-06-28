@@ -1,9 +1,15 @@
-### Hi there 👋 Seja bem-vindo(a)!
+<div align="center">
+  <h3> Hi there 👋 Seja bem-vindo(a)! </h3>
+  <img height="250em" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
+</div>
 
-![Gato](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+
+<!--![Gato](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)-->
+
+[![Linkedin: sarita](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saritarimes/)](https://www.linkedin.com/in/saritarimes/)
 
 
-[![Linkedin: sarita](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/saritarimes/)
+
 
 <hr>
 
@@ -17,34 +23,24 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Meu nome é Sarita e eu sou Desenvolvedora Back-end :bricks: 
+Meu nome é Sarita e eu sou Desenvolvedora Back-end :bricks:
 
 Atualmente, desenvolvo principalmente em: 
 :coffee: **Java**
 :large_blue_circle: **C#**
 
-Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim 
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim, sozinha ou em grupo. Se quiser mais informações, não deixe de acessar meu Linkedin pelo link lá em cima :point_up:
 
 <hr>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saritarimes&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritarimes&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saritarimes&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritarimes&layout=compact&theme=radical"/>
 </div>
 
 <hr>
 
+<!--
 ```Java
   public class ByeWorld {
   public static void main(String[] args) {
@@ -52,3 +48,4 @@ Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim
   }
 }
 ```
+-->
