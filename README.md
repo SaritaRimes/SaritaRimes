@@ -1,10 +1,7 @@
 <div align="center">
   <h3> Hi there 👋 Seja bem-vindo(a)! </h3>
-  <img height="250em" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
+  <!--<img height="250em" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">-->
 </div>
-
-
-<!--![Gato](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)-->
 
 [![Linkedin: sarita](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saritarimes/)](https://www.linkedin.com/in/saritarimes/)
 
@@ -12,9 +9,11 @@
 
 Meu nome é Sarita e eu sou :sparkles: **Desenvolvedora Back-end** :sparkles:
 
-No momento, desenvolvo principalmente em: 
-:coffee: **Java**
-:large_blue_circle: **C#**
+No momento, desenvolvo principalmente em: \
+:triangular_ruler: **Matlab** \
+:snake: **Python** \
+:coffee: **Java** \
+:large_blue_circle: **C#** \
 
 Aqui, você vai encontrar alguns dos trabalhos desenvolvidos por mim, sozinha ou em grupo. Se quiser mais informações ou desejar entrar em contato, não deixe de acessar meu Linkedin pelo link lá em cima :point_up:
 
