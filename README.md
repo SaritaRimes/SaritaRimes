@@ -7,7 +7,7 @@
 
 <hr>
 
-Meu nome é Sarita e eu sou :sparkles: **Desenvolvedora Back-end** :sparkles:
+Meu nome é Sarita e eu sou :sparkles: **Programadora** :sparkles:
 
 No momento, desenvolvo principalmente em: \
 :triangular_ruler: **Matlab** \
